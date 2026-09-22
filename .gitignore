@@ -10,6 +10,9 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+Finlora dataset/artifacts/
+
+
 dist/
 downloads/
 eggs/
